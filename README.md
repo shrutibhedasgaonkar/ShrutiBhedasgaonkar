@@ -20,9 +20,9 @@ QA Lead with 11+ years of experience delivering high-quality software in healthc
 
 **Testing:** Manual Testing · Regression · SIT · UAT · Data Testing  
 **Automation:** Selenium (Python), Pytest, Page Object Model (POM)  
-**Programming:** Python (Pandas, general scripting)  
+**Programming:** Python  
 **Data Skills:** SQL (Joins, validation, integrity checks)  
-**Tools:** JIRA, TestRail, GitHub, PyCharm
+**Tools:** JIRA, TestRail, GitHub, PyCharm, Confluence, DevOps
 
 ---
 
