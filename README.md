@@ -2,7 +2,11 @@
 
 ## Hi, I'm Shruti 👋
 
-QA Lead with 11+ years of experience delivering high-quality software in healthcare, retail, and enterprise environments through hands-on functional, regression, integration, and UAT testing. Experienced in end-to-end test ownership for complex system and data migrations, including test strategy, test execution, defect management, and reporting to stakeholders. Proficient with Selenium, Python, SQL, Jira, Confluence, and Azure DevOps, with a strong track record in accelerating regression cycles and improving defect leakage through structured test frameworks and automation. Adept at working with cross-functional and distributed teams, including onshore/offshore models, in Agile delivery environments. 
+Business Analyst and QA Lead with 11+ years of experience delivering high-quality software and business change across healthcare, retail, and enterprise environments. I combine strong quality assurance expertise with hands-on business analysis to support complex system and data migrations and digital transformation initiatives.
+
+As a Tester / QA Lead, I have end-to-end ownership of testing for complex programmes, including test strategy, planning, functional, regression, integration, and UAT execution, defect management, and stakeholder reporting. I am proficient with Selenium, Python, SQL, Jira, Confluence, and Azure DevOps, with a strong track record of accelerating regression cycles and reducing defect leakage through structured test frameworks and automation.
+
+As a Business Analyst, I am experienced in requirements elicitation, business process analysis, and end-to-end validation for system and data migrations, including legacy platform replacements. I translate business needs into clear, testable requirements, define acceptance criteria, and support User Acceptance Testing and benefits realisation by working closely with stakeholders and cross-functional Agile teams.
 
 ---
 
